@@ -1,0 +1,153 @@
+.header {
+  padding: 2.8rem;
+}
+
+.header__logo {
+  margin: 0.5rem 0;
+}
+
+.language {
+  margin: 0;
+}
+
+.header__donation-button {
+  display: none;
+}
+
+.header__toggle {
+  display: none;
+}
+
+.main-wrap {
+  background-color: #F4F4F4;
+  padding: 9.2rem 0 6.4rem;
+  background-image: url("../../images/general/policy-bg-mobile.png");
+  background-position: -4.8rem 0;
+}
+
+.top {
+  background-color: #FFE06C;
+  border-radius: 3.2rem;
+  margin: 0 0.8rem 0.8rem;
+  padding: 4.8rem 2rem;
+  position: relative;
+}
+
+.top__title {
+  font-size: 1.6rem;
+  line-height: 140%;
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #0D1830;
+  padding-bottom: 0.8rem;
+  margin: 0 0 1.6rem;
+}
+
+.top__update {
+  font-size: 1.3rem;
+  line-height: 140%;
+}
+
+.top__bulb-decoration {
+  fill: #0D1830;
+  position: absolute;
+  top: 1.9rem;
+  right: 3.7rem;
+}
+
+.splitter {
+  width: 14.9rem;
+  height: auto;
+  margin: 0.8rem auto 1.6rem;
+  display: block;
+}
+
+.content {
+  margin: 1.6rem 0 0;
+  padding: 0 2.8rem;
+}
+
+.content__container {
+  font-size: 1.6rem;
+  line-height: 140%;
+}
+
+.content__container p:not(:last-of-type) {
+  margin-bottom: 1.2rem;
+}
+
+.content__container h2 {
+  font-size: 2rem;
+  line-height: 120%;
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #0D1830;
+  padding-bottom: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.content__container ul,
+.content__container ol {
+  list-style-type: none;
+  margin: 1.2rem 0;
+}
+
+.content__container ul li {
+  display: block;
+  margin-left: 2.2rem;
+  position: relative;
+}
+
+.content__container ul li:not(:last-of-type) {
+  margin-bottom: 1.2rem;
+}
+
+.content__container ul li::before {
+  content: "";
+  width: 1.4rem;
+  height: 2.5rem;
+  display: block;
+  background-image: url("../../images/general/three-dashes.svg");
+  position: absolute;
+  top: 0;
+  left: -2.2rem;
+}
+
+.content__container ol li {
+  display: block;
+  margin-left: 4.1rem;
+  position: relative;
+}
+
+.content__container ol li:not(:last-of-type) {
+  margin-bottom: 1.2rem;
+}
+
+.content__container ol li .ordered-list-number {
+  position: absolute;
+  top: -0.3rem;
+  left: -3.6rem;
+  font-size: 1.8rem;
+  line-height: 150%;
+}
+
+.content__container ol li .ordered-list-number::after {
+  content: "";
+  width: 0.3rem;
+  height: 0.3rem;
+  background-image: url("../../images/general/dot.svg");
+  position: absolute;
+  bottom: 0.4rem;
+  right: -0.4rem;
+  background-size: 0.3rem 0.3rem;
+}
+
+.content__container a {
+  text-decoration: none;
+  color: #1F73F0;
+}
+
+.wpml-ls-statics-footer,
+.otgs-development-site-front-end {
+  display: none;
+}

@@ -1,0 +1,121 @@
+@media only screen and (min-width: 1024px) {
+  .header {
+    padding: 4rem 8.8rem 2.6rem;
+  }
+
+  .header__logo {
+    margin: 0;
+    width: 12.5rem;
+    height: auto;
+  }
+
+  .language {
+    margin: 0;
+  }
+
+  .header__donation-button {
+    display: block;
+    height: 8rem;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40rem;
+    margin: 0 0 0 4rem;
+  }
+
+  .header__media-list {
+    display: none;
+  }
+
+  .main-wrap {
+    padding: 1.4rem 0 8rem;
+    background-image: url("../../images/general/policy-bg-pc.jpg");
+    background-position: -3.5rem 0;
+  }
+
+  .top {
+    border-radius: 6rem;
+    margin: 0 0.8rem 2.4rem;
+    padding: 8rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+
+  .top__title {
+    font-size: 6.4rem;
+    line-height: 120%;
+    width: 43.04%;
+    padding-bottom: 2.4rem;
+    margin: 0;
+  }
+
+  .top__update {
+    font-size: 1.8rem;
+    line-height: 150%;
+    -ms-flex-item-align: end;
+    align-self: flex-end;
+  }
+
+  .top__bulb-decoration {
+    top: 6.2rem;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 8.4rem;
+    height: 8.4rem;
+  }
+
+  .splitter {
+    width: 21rem;
+    margin: 2.4rem auto 5.6rem;
+  }
+
+  .content {
+    margin: 5.6rem 0 0;
+    padding: 0 21.11%;
+  }
+
+  .content__container {
+    font-size: 1.8rem;
+    line-height: 150%;
+  }
+
+  .content__container p:not(:last-of-type) {
+    margin-bottom: 1.6rem;
+  }
+
+  .content__container h2 {
+    font-size: 2.4rem;
+    line-height: 140%;
+    padding-bottom: 1.6rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .content__container ul,
+  .content__container ol {
+    margin: 1.6rem 0;
+  }
+
+  .content__container ul li:not(:last-of-type) {
+    margin-bottom: 1.6rem;
+  }
+
+  .content__container ul li::before {
+    top: 0.2rem;
+  }
+
+  .content__container ol li:not(:last-of-type) {
+    margin-bottom: 1.6rem;
+  }
+
+  .content__container ol li .ordered-list-number {
+    top: -0.1rem;
+  }
+}

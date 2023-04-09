@@ -1,0 +1,296 @@
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\npm\slick-carousel@1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ajax\libs\gsap\3.11.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ajax\libs\ScrollMagic\2.0.7\plugins\animation.gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ajax\libs\ScrollMagic\2.0.7\ScrollMagic.min.js
+Content Type: application/javascript
+
+Uri: https://static.liqpay.ua/libjs/checkout.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\libjs\checkout.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/oferta/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\oferta\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/politika-konfidenczijnosti/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\politika-konfidenczijnosti\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/ua/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ua\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/ua/oferta/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ua\oferta\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/ua/politika-konfidenczijnosti/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ua\politika-konfidenczijnosti\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/ua/zasterezhennya-pro-vikoristannya-fajliv-cookies/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ua\zasterezhennya-pro-vikoristannya-fajliv-cookies\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/ua/zasterezhennya-shhodo-zahistu-personalnih-danih/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\ua\zasterezhennya-shhodo-zahistu-personalnih-danih\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.5.14
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\plugins\sitepress-multilingual-cms\res\js\cookies\language-cookie.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/css/libs/swiper.css?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\css\libs\swiper.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/css/main.css?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\css\main.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/css/pages/page-main.css?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\css\pages\page-main.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/css/pages/page-main_mob.css?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\css\pages\page-main_mob.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/css/pages/page-policy.css?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\css\pages\page-policy.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/css/pages/page-policy_mob.css?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\css\pages\page-policy_mob.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/fonts/NAMU-1850.woff
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\fonts\NAMU-1850.woff
+Content Type: font/woff
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/fonts/NAMU-1850.woff2
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\fonts\NAMU-1850.woff2
+Content Type: font/woff2
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/arrow-down.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/arrow-vertical.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\arrow-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/blue-spring.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\blue-spring.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/bulb.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\bulb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/dot.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\dot.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/flag.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\flag.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/hat.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\hat.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/long-arrow-down.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\long-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/minus.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/plus.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/policy-bg-mobile.png
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\policy-bg-mobile.png
+Content Type: image/png
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/policy-bg-pc.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\policy-bg-pc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/quotes.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\quotes.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/short-arrow-down.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\short-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/sun.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\sun.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/three-dashes.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\three-dashes.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/tick.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\tick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/triple-lines.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\triple-lines.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/images/general/yellow-spring.svg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\images\general\yellow-spring.svg
+Content Type: image/svg+xml
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/js/jquery-3.5.0.min.js?ver=6.1.1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\js\jquery-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/js/libs/SmoothScroll.min.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\js\libs\SmoothScroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/js/libs/swiper.min.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\js\libs\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/js/main.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/js/pages/page-main.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\js\pages\page-main.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/themes/claris visioners/build/static/js/pages/page-policy.js?ver=1.0
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\themes\claris visioners\build\static\js\pages\page-policy.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/01/paypal-logo.png
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\01\paypal-logo.png
+Content Type: image/png
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/0077-683x1024.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\0077-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/1.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/2.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/group-1073.png
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\group-1073.png
+Content Type: image/png
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/group-1075.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\group-1075.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/group-1077.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\group-1077.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/group-1079.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\group-1079.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/group-1082.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\group-1082.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/img_6705-1024x771.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\img_6705-1024x771.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/img_6707-1024x771.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\img_6707-1024x771.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/img_6708-768x1024.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\img_6708-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/logo-educare-text-1.png
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\logo-educare-text-1.png
+Content Type: image/png
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/photo_179-1-683x1024.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\photo_179-1-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/photo_203-1-1024x683.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\photo_203-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/photo_239-1024x683.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\photo_239-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/photo_670-1024x683.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\photo_670-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/rej_061-1-1024x682.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\rej_061-1-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/rej_147-1-1024x682.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\rej_147-1-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-content/uploads/2023/02/rej_176-1024x682.jpg
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-content\uploads\2023\02\rej_176-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://www.educare.org.ua/wp-includes/css/classic-themes.min.css?ver=1
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://www.educare.org.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.educare.org.ua/zasterezhennya-pro-vikoristannya-fajliv-cookies/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\zasterezhennya-pro-vikoristannya-fajliv-cookies\index.htm
+Content Type: text/html
+
+Uri: https://www.educare.org.ua/zasterezhennya-shhodo-zahistu-personalnih-danih/
+File Name: D:\OpenServer\domains\REM\www.educare.org.ua\zasterezhennya-shhodo-zahistu-personalnih-danih\index.htm
+Content Type: text/html
+
